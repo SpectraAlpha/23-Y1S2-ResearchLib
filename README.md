@@ -1,2 +1,3 @@
 # 23-Y1S2-ResearchLib
-Personal Projects we did for our finals in Final semester in Year one
+Resources I used in doing my final semester projeccts , including abstracts and summaries within the project.
+
