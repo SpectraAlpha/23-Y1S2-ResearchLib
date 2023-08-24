@@ -1,0 +1,22 @@
+drop table Call;
+drop table Hotline;
+drop table Knowledge_Base_Attachment;
+drop table Knowledge_Base;
+drop table Knowledge_Base_Category;
+drop table Thread_Reply;
+drop table Thread_Topic;
+drop table Thread_Category;
+drop table Feedback_Reply;
+drop table Issue_Solution;
+drop table Ticket;
+drop table Feedback;
+drop table Issue;
+drop table Priority;
+drop table Staff_Phone_Number;
+drop table Staff;
+drop table Staff_Role;
+drop table Student;
+
+drop database help_desk
+drop database helpdesk
+drop database ISDM_HelpDesk
